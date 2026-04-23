@@ -1,1 +1,1 @@
-# agile-final-project
+# lab-agile-planning
